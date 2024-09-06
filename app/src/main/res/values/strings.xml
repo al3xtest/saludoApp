@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">saludoApp</string>
+    <string name="et_hint_nombre">Ingrese su usuario:</string>
+    <string name="btn_saludar">saludar</string>
+    <string name="tv_saludo">Hola extraño</string>
+    <string name="cd_imagen">imagen logo Intel</string>
+    <string name="tv_hello">Hola %1$s, bienvenido/a!</string>
+
+</resources>
